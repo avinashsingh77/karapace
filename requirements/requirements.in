@@ -15,6 +15,7 @@ watchfiles<1
 xxhash~=3.3
 rich~=13.6.0
 cachetools==5.3.1
+python-snappy==0.6.1
 
 # Patched dependencies
 #
